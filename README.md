@@ -154,3 +154,8 @@ _Coming soon_
 ### Workshops
 
 * [Spring AI - Zero to Hero (Adib Saikali, Christian Tzolov)](https://github.com/asaikali/spring-ai-zero-to-hero/tree/main)
+
+### Hugging faces & ollama
+
+* [Run large language models in Ollama directly from Hugging Face](https://huggingface.co/docs/hub/ollama)
+* [Catalog of GGUF models on Hugging Face](https://huggingface.co/models?library=gguf)
